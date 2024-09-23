@@ -2,6 +2,8 @@
 
 Este texto também está no arquivo `README.md`.
 
+Link do repositório GitHub: [https://github.com/emannuelop/testeDeEstagio](https://github.com/emannuelop/testeDeEstagio)
+
 ## Questão 1: Fibonacci
 Equivalente ao arquivo `Fibonacci`.
 
@@ -31,5 +33,3 @@ Passos para solucionar o desafio:
    - A lâmpada **apagada e fria** corresponde ao **terceiro interruptor**.
 
 ---
-
-Link do repositório GitHub: [https://github.com/emannuelop/testeDeEstagio](https://github.com/emannuelop/testeDeEstagio)
