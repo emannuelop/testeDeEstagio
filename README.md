@@ -1,19 +1,21 @@
 # Desafio de Estágio - Soluções
 
-Este texto também está no arquivo `README.md`.
-
 Link do repositório GitHub: [https://github.com/emannuelop/testeDeEstagio](https://github.com/emannuelop/testeDeEstagio)
 
+Os exercícios foram escritos em Java.
+
+Este texto também está no arquivo `README.md`.
+
 ## Questão 1: Fibonacci
-Equivalente ao arquivo `Fibonacci`.
+Equivalente ao arquivo dentro da pasta `src` chamado `Fibonacci`.
 
 ## Questão 2: Contar Letra 'A'
-Equivalente ao arquivo `contarLetraA`.
+Equivalente ao arquivo dentro da pasta `src` chamado `contarLetraA`.
 
 ## Questão 3: Soma Índice
 Equivalente ao arquivo chamado `SomaIndice`.
 
-Resultado: O valor final de **SOMA** será 78, pois a soma dos números de 2 a 12 é 78.
+Resultado: O valor final da **SOMA** será 78, pois a soma dos números de 2 a 12 é 78.
 
 ## Questão 4: Completar a lógica das sequências:
 - a 1, 3, 5, 7, 9... (Progressão aritmética com diferença de 2)
@@ -25,7 +27,7 @@ Resultado: O valor final de **SOMA** será 78, pois a soma dos números de 2 a 1
 
 ## Questão 5: Desafio dos interruptores e lâmpadas
 Passos para solucionar o desafio:
-1. Ligue o **primeiro interruptor** e deixe ligado por alguns minutos.
+1. Ligue o **primeiro interruptor** e deixe-o ligado por alguns minutos.
 2. Desligue o **primeiro interruptor** e ligue o **segundo interruptor**.
 3. Vá até a sala das lâmpadas:
    - A lâmpada que está **acesa** corresponde ao **segundo interruptor**.
